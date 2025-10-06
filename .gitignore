@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.pyc
+data/
+hf_vox/
+*.npz
+*.npy
+*.zip
+*.tar
+*.tar.gz
+*.pt
+*.ckpt
+*.png
+*.wav
